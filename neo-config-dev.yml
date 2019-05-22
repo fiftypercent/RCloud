@@ -82,5 +82,6 @@ management:
     web:
       server:
 auto-time-requests: false
+
 mongo:
-  url:172.20.2.101
+    url:172.20.2.101
